@@ -1,0 +1,1 @@
+I also participated in the Amazon ML Summer School in 2025. During this program, I studied supervised and unsupervised learning, reinforcement learning, CNNs, transformers, and large language models. The program focused on applying ML techniques to real problems and gave me exposure to advanced architectures and optimization techniques.

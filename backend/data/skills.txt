@@ -1,0 +1,5 @@
+My skills cover three main areas. 
+1. Machine Learning & AI: I work with Python, PyTorch, TensorFlow, scikit-learn, transformers, fine-tuning large language models, and computer vision using OpenCV. 
+2. Backend & Web: I use FastAPI, Flask, REST APIs, Docker, PostgreSQL, MongoDB, and Git to build secure and scalable systems. 
+3. Data & Visualization: I use Pandas, NumPy, Matplotlib, Power BI, and Excel to analyze data and communicate insights. 
+I also practice CI/CD and testing to keep projects reliable in production.

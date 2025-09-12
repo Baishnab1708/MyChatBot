@@ -1,0 +1,5 @@
+Here’s a quick overview of my main projects
+MediScan: An AI-powered OCR-to-NLP pipeline that extracts and validates medicine information from prescriptions.
+Text Summarizer: An abstractive summarization model that generates concise summaries of long texts.
+Sign Language Detection: A real-time system using MediaPipe and BiLSTM to recognize dynamic sign language gestures from video.
+Let me know if you wanna go in to details about my projects

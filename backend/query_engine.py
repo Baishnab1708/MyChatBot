@@ -29,4 +29,4 @@ def query_answer(user_query: str, top_k: int = 2) -> str:
         answers = [doc[0] for doc in results["documents"]]
         return "\n\n".join(answers)
 
-    return "❌ Sorry, I don’t have an answer for that."
+    return "Sorry, I don’t have an answer for that."
